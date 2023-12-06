@@ -15,6 +15,5 @@ Develop a set of Relational Schema and SQL Physical Schema based on a provided E
 
 # Phase 3
 Develop the Structured Query Language (SQL) views, queries and transactions needed to support an application based on a provided database and dataset.
-
-# Phase 4
-Develop a fully-fledged application with a Graphical User Interface (GUI) (e.g., web-based, desktop-based) building on your work from Phase 3 of the project with provided interface guidance.
+1. Implement thirteen (13) stored procedures which allow the system operators to query and modify the database state in accordance with the problem scenario
+2. Implement six (6) views which provide information to the system operators about the database state from various "points of view" (i.e., system operator roles)
